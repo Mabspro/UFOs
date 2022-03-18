@@ -3,17 +3,15 @@
 The project was done to show a dynamic webpage that takes in user inputs and adjusts accordingly to display information about UFO sightings across a region.
 For the website to work properly users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
 
-# Resources Used
+## Resources Used
 Data Source: UFO data
 Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
 
 # Results 
-Link to UFO Sightings webpage
-
-# Index page
+## Index page
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 
-# Filters
+## Filters
 Filtering by event date:
 The user enters the desired date, the change is detected and the table is updated accordingly.
 
